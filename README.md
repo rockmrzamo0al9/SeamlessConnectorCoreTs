@@ -1,0 +1,2 @@
+# SeamlessConnectorCoreTs
+Python script
